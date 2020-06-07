@@ -4,7 +4,7 @@
   "description": "es6 demonstration",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "test": "mocha -w test/*.js"
   },
   "keywords": [
     "es6",
@@ -15,5 +15,8 @@
     "ecma"
   ],
   "author": "none",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^7.2.0"
+  }
 }
