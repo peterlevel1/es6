@@ -1,0 +1,19 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "description": "es6 demonstration",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "es6",
+    "javascript",
+    "esnext",
+    "js",
+    "ecmascript",
+    "ecma"
+  ],
+  "author": "none",
+  "license": "MIT"
+}
