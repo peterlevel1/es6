@@ -12,7 +12,7 @@ let-const
 
 1. do not declare functions under block statement, variables instead
 2. use block if there is any let or const literal exist in the condition sentence
-3. the window attributes do not take the let or const declarations
+3. the window do not take the let or const declarations as a new attribute
 4. const can't keep object member unchanged, only provide an address on the machine
 
 ## best practice
